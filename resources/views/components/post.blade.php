@@ -1,5 +1,5 @@
 @props(['post' => $post])
-<div>
+<div >
     
 <div class='mb-4'> 
 <a href="{{ route('users.service', $post->user)}}" class='font-bold'>{{ $post->user->name}}</a>

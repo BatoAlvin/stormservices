@@ -47,13 +47,13 @@ https://templatemo.com/tm-538-digital-trend
                               <div class="item project-wrapper" data-aos="fade-up" data-aos-delay="100">
                                    <img src="images/project/project-engineer.jpg" class="img-fluid" alt="project image">
 
-                                   <div class="project-info">
+                                   <div class="project-info  w-50 p-3">
                                       
 
                                         <h3>
-                                             <a href="project-detail.html">
+                                             <a href="#">
                                                   <span>Electrical Engineering</span>
-                                                  <i class="fa fa-angle-right project-icon"></i>
+                                                  <!-- <i class="fa fa-angle-right project-icon"></i> -->
                                              </a>
                                         </h3>
                                    </div>
@@ -62,13 +62,13 @@ https://templatemo.com/tm-538-digital-trend
                               <div class="item project-wrapper" data-aos="fade-up">
                                    <img src="images/project/project-plumbing.jpg" class="img-fluid" alt="project image">
 
-                                   <div class="project-info">
+                                   <div class="project-info  w-50 p-3">
                                      
 
                                         <h3>
-                                             <a href="project-detail.html">
+                                             <a href="#">
                                                   <span>Plumbing</span>
-                                                  <i class="fa fa-angle-right project-icon"></i>
+                                                  <!-- <i class="fa fa-angle-right project-icon"></i> -->
                                              </a>
                                         </h3>
                                    </div>
@@ -77,13 +77,13 @@ https://templatemo.com/tm-538-digital-trend
                               <div class="item project-wrapper" data-aos="fade-up">
                                    <img src="images/project/project-painting.jpg" class="img-fluid" alt="project image">
 
-                                   <div class="project-info">
+                                   <div class="project-info  w-50 p-3">
                                     
 
                                         <h3>
-                                             <a href="project-detail.html">
+                                             <a href="#">
                                                   <span>Painting</span>
-                                                  <i class="fa fa-angle-right project-icon"></i>
+                                                  <!-- <i class="fa fa-angle-right project-icon"></i> -->
                                              </a>
                                         </h3>
                                    </div>
@@ -92,13 +92,13 @@ https://templatemo.com/tm-538-digital-trend
                               <div class="item project-wrapper" data-aos="fade-up">
                                    <img src="images/project/project-repair.jpg" class="img-fluid" alt="project image">
 
-                                   <div class="project-info">
+                                   <div class="project-info w-50 p-3">
                                       
 
                                         <h3>
-                                             <a href="project-detail.html">
+                                             <a href="#">
                                                   <span>Hardware Repair</span>
-                                                  <i class="fa fa-angle-right project-icon"></i>
+                                                  <!-- <i class="fa fa-angle-right project-icon"></i> -->
                                              </a>
                                         </h3>
                                    </div>
@@ -107,13 +107,13 @@ https://templatemo.com/tm-538-digital-trend
                               <div class="item project-wrapper" data-aos="fade-up">
                                    <img src="images/project/project-image05.jpg" class="img-fluid" alt="project image">
 
-                                   <div class="project-info">
+                                   <div class="project-info  w-50 p-3">
                                        
 
                                         <h3>
-                                             <a href="project-detail.html">
+                                             <a href="#">
                                                   <span>Ultimate HealthCare</span>
-                                                  <i class="fa fa-angle-right project-icon"></i>
+                                                  <!-- <i class="fa fa-angle-right project-icon"></i> -->
                                              </a>
                                         </h3>
                                    </div>

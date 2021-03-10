@@ -17,6 +17,13 @@ Use a better box model (opinionated).
   box-sizing: border-box;
 }
 
+#camp{
+  background-color: #0c8195;
+}
+
+#woke{
+  text-color: #ffffff;
+}
 /**
 Use a more readable tab size (opinionated).
 */

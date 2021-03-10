@@ -1,7 +1,9 @@
+
 @props(['post' => $post])
+<div class="col-lg-7 mx-auto col-md-10 col-12">
 <div >
     
-<div class='mb-4'> 
+<div class='mb-4 mt-4'> 
 <a href="{{ route('users.service', $post->user)}}" class='font-bold'>{{ $post->user->name}}</a>
 <span class='text-gray-600 text-sm'>{{ $post->created_at->diffForHumans()}}</span>
 <p class='mb-2'>{{ $post->body}}</p>
@@ -43,4 +45,5 @@ $post->likes->count())}} </span>
 </div>
 
 
+</div>
 </div>
